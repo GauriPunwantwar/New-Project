@@ -1,0 +1,5 @@
+../source/Event_Manager/Event_Manager.c:31:10:Event_Mgr_Get_Event_Status	24	static
+../source/Event_Manager/Event_Manager.c:62:6:Event_Mgr_Set_Event_Debounce	40	static
+../source/Event_Manager/Event_Manager.c:155:6:Event_Mgr_Reset_Event_Debounce	24	static
+../source/Event_Manager/Event_Manager.c:213:6:Event_Mgr_Set_Event	40	static
+../source/Event_Manager/Event_Manager.c:293:6:Event_Mgr_Reset_Event	32	static

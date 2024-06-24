@@ -1,0 +1,8 @@
+../source/App/App_Event_Manager/App_Event_Manager.c:386:10:App_event_mgr_get_hdr_status	8	static
+../source/App/App_Event_Manager/App_Event_Manager.c:403:10:App_event_mgr_get_system_status_1	8	static
+../source/App/App_Event_Manager/App_Event_Manager.c:420:10:App_event_mgr_get_system_status_2	8	static
+../source/App/App_Event_Manager/App_Event_Manager.c:436:10:App_evt_mgr_get_max_evt_no	8	static
+../source/App/App_Event_Manager/App_Event_Manager.c:455:17:App_event_mgr_set_event	16	static
+../source/App/App_Event_Manager/App_Event_Manager.c:473:17:App_event_mgr_reset_event	16	static
+../source/App/App_Event_Manager/App_Event_Manager.c:492:6:App_evt_mgr_update_event_status	32	static
+../source/App/App_Event_Manager/App_Event_Manager.c:536:18:App_event_mgr_get_event_table_ref	16	static

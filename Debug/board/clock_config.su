@@ -1,0 +1,11 @@
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_clock.h:823:20:CLOCK_SetSimSafeDivs	8	static
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_clock.h:1146:20:CLOCK_SetXtal0Freq	16	static
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_clock.h:1156:20:CLOCK_SetXtal32Freq	16	static
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+D:\Jhaveri Labs\Workspace\twrkm35z75m_meterliblp3phkwh_test\drivers/fsl_irtc.h:468:20:IRTC_SetOscCapLoad	24	static
+../board/clock_config.c:79:13:CLOCK_CONFIG_FllStableDelay	16	static
+../board/clock_config.c:95:13:CLOCK_CONFIG_EnableRtcOsc	16	static
+../board/clock_config.c:112:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:205:6:BOARD_BootClockRUN	24	static
+../board/clock_config.c:301:6:BOARD_BootClockVLPR	8	static
